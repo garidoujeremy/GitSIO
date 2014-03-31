@@ -45,9 +45,17 @@ Liste des étudiants ayant réussi ce TP
 --------------------------------------
 
 
-* Sebastien Inion.
-* Jules Bemé.
-* Maxime SARRATO.
-* Cédric Lefèvre.
-* Florian Lecoeuche.
+* Sebastien Inion,
+* Jules Bemé,
+* Maxime SARRATO,
+* Cédric Lefèvre,
+* Florian Lecoeuche,
+* Jordy Guilbert,
+* Adrien Expert,
+* Loris Venturelli,
+* Valentin Boyer,
+* Sylvain Pastor,
+* Lannes Mathieu,
+* Sitan Coulibaly,
+* Maxime Edwards,
 * Jeremy Garidou.
