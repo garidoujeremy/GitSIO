@@ -62,4 +62,4 @@ Liste des étudiants ayant réussi ce TP
 * Julien Martinez,
 * Alex Santos.
 * Samir Weber.
-* Jeremy Garidou.
+* jeremy Garidou.
