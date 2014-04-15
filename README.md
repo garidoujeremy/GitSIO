@@ -66,4 +66,5 @@ Liste des étudiants ayant réussi ce TP
 * Emmanuel Robert,
 * Salord Jérôme,
 * Lacomblez Alain,
-* Antony Martin.
+* Antony Martin,
+* Nicolas Decor.
