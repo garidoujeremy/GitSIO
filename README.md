@@ -67,4 +67,5 @@ Liste des étudiants ayant réussi ce TP
 * Salord Jérôme,
 * Lacomblez Alain,
 * Antony Martin,
-* Nicolas Decor.
+* Nicolas Decor,
+* Jeremy Garidou.
